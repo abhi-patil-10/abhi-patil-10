@@ -106,29 +106,17 @@ Built an end-to-end ML pipeline to predict California housing prices.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aspatil0&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aspatil0&theme=default" />
-</p>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aspatil0&theme=minimal" />
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: Add your LinkedIn link  
-- 🧑‍💻 GitHub: https://github.com/aspatil0  
+- 📧 Email: abhijeetpatil8482@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/abhijeet-patil-830605384
+- 🧑‍💻 GitHub: https://github.com/abhi-patil-10/abhi-patil-10/
 
 ---
 
