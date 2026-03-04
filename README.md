@@ -43,7 +43,7 @@ Video → Speech-to-Text → Embeddings → Vector Database → Semantic Search 
 🔧 Tech Used:  
 `Python` `LLM` `Vector Database` `Embeddings` `RAG Architecture`
 
-🔗 GitHub: https://lnkd.in/dv-2f73w
+🔗 GitHub: https://github.com/abhi-patil-10/RAG-Based-AI-Teaching-Assistant.git
 
 ---
 
@@ -63,6 +63,7 @@ Built an end-to-end ML pipeline to predict California housing prices.
 
 🔧 Tech Used:  
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-Learn`
+🔗 GitHub: https://github.com/abhi-patil-10/California_House_Price_Pridiction.git
 
 ---
 
