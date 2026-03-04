@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adityaraj Patil</h1>
-<h3 align="center">Data Scientist | ML Engineer | AI & LLM Developer | Technical Mentor</h3>
+<h1 align="center">Hi 👋, I'm Abhijeet Patil</h1>
+<h3 align="center">Data Scientist | ML Engineer | AI & LLM Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
